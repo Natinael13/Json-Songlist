@@ -1,2 +1,11 @@
 # Json-Songlist
-JSON representing a setlist for a fictional cover band with filter feature
+
+Created a webpage
+
+
+# What I Gained
+
+* Practice with JSON
+* Practice with Javascript
+* Practice with HTML
+* Practice with CSS
